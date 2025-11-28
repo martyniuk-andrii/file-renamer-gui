@@ -31,5 +31,3 @@ Here is an example of the GUI:
 ![File Renamer GUI](assert/Screenshot.png)
 
 
-## 📁 Project Structure
-
